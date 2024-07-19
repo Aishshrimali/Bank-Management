@@ -1,0 +1,1 @@
+Python application for comprehensive bank operations management, including account handling, transactions, and customer information. <br>Features include account creation, deposits, withdrawals, balance inquiries, and transaction history tracking, prioritizing security and operational efficiency for enhanced customer service.
